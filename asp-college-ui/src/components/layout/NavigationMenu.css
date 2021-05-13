@@ -1,0 +1,27 @@
+li Link:hover {
+    background-color: red;
+  }
+
+  ul {
+    list-style-type: none;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  .link-name {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+  
